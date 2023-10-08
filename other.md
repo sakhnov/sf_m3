@@ -130,7 +130,7 @@ ________________________
 
 `git merge branch_2` - вливаем изменения из ветки branch_2 в текущую ветку (master), КОНФЛИКТ автослияния
 
-# Automatic merge failed; fix conflicts and then commit the result.
+### Сообщение о конфликте: Automatic merge failed; fix conflicts and then commit the result.
 
 `subl .` - выбираем в конфликтных файлах те участки, которые нужно оставить, сохраняем
 
